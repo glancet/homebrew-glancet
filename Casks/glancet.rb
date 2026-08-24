@@ -1,6 +1,6 @@
 cask "glancet" do
-  version "0.1.1"
-  sha256 "a80a6cebe4000b9848e1f433386182193edee1df974699a31decf8f48e61d844"
+  version "0.1.2"
+  sha256 "f506eccb8db2fdf13937715f9254351ca5ff130d7a85206bb1d4f2db9ec4f6de"
 
   url "https://glancet.io/downloads/Glancet-#{version}.zip"
   name "Glancet"
